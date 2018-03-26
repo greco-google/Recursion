@@ -12,7 +12,8 @@ public class RecursiveMethods {
 	}
 	
 	//Example 2
-	public int mystery(int n, int a, int b) {
+	public int mystery
+	(int n, int a, int b) {
 		if(n == 0) {
 			return a;
 		} else {
